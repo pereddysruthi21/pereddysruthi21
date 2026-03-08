@@ -1,4 +1,5 @@
 Studying Computer Science at the University of Michigan!
+
 Reach me at spereddy [at] umich [dot] edu.
 
 <!--
