@@ -1,4 +1,5 @@
-## Hi there 👋
+Studying Computer Science at the University of Michigan!
+Reach me at spereddy [at] umich [dot] edu.
 
 <!--
 **pereddysruthi21/pereddysruthi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
