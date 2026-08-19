@@ -1,6 +1,10 @@
 Studying Computer Science at the University of Michigan!
 
-Reach me at spereddy [at] umich [dot] edu.
+I'm looking for mission driven organizations that build to fight for access for everyone.
+
+Currently interning at Cloudflare building software for the Recruiting Operations team.
+
+Reach me at spereddy [at] umich [dot] edu to chat about opportunities or learn from my experience! My DMs are always open to mentor anyone :)
 
 <!--
 **pereddysruthi21/pereddysruthi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
